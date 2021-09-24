@@ -27,6 +27,6 @@
 
 <div align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/luhcasgabriel/LucasGabriel" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/luhcasgabriel/LuhcasGabriel" alt="Visitors badge" />
    </a>
 </div>
